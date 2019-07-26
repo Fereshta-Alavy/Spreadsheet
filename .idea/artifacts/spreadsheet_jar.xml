@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spreadsheet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spreadsheet_jar</output-path>
+    <root id="archive" name="FiddlerLab.jar">
+      <element id="module-output" name="spreadsheet" />
+    </root>
+  </artifact>
+</component>
